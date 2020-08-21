@@ -1,0 +1,27 @@
+[Folders]
+.+AFw-=1
+.+AFw- - app=1
+.+AFw- - app - app=1
+.+AFw- - app - recipe=1
+.+AFw- - app - recipe - tests=1
+
+[Open Files]
+Active File Display Mode="1"
+Active File Index="2"
+Open File Line0="2321"
+Open File Line1="515"
+Open File Line2="4999"
+Open File Pos0="417"
+Open File Pos1="1237"
+Open File Pos2="3383"
+Open File Window Pos0="0,1,-1,-1,-1,-1,5,31,1324,661"
+Open File Window Pos1="0,1,-1,-1,-1,-1,5,31,1247,661"
+Open File Window Pos2="0,1,-1,-1,-1,-1,5,31,1324,661"
+Open File0=".\app\recipe\tests\test_recipe_api.py"
+Open File1=".\app\recipe\serializers.py"
+Open File2="..\recipe-app-api-master\app\recipe\tests\test_recipe_api.py"
+Remember Files="1"
+
+[Project Information]
+Project Start=E407080003001300130000002E0000004A
+Working Time=248
